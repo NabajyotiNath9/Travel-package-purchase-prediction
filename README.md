@@ -9,8 +9,8 @@ Travel.csv dataset (4888)
 
 https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction
 
-CustomerID: Unique customer ID
-ProdTaken: Taken product: 1/0 (Target)
+* CustomerID: Unique customer ID
+* ProdTaken: Taken product: 1/0 (Target)
 Age: The age of the customer
 TypeofContact: How the customer was contacted (Company invited or Self Inquiry)
 CityTier: City tier depends on the development of a city, population, facilities, and living standards. The categories are ordered i.e.
